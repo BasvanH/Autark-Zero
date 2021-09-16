@@ -1,0 +1,3 @@
+{
+    "files": ["main.py","mappolygon.qml","main.qml","box_cache.py","geofence.py","geo_utils.py","mappolygon.qml","mavlink_client.py","point.py","qt_classes.py","singleton_metaclass.py","telemetry.py","tests.py","waterbodies.py","README.md","path_finding/base_path.py","path_finding/boat.py","path_finding/__init__.py","mission_planner.py","path_finder/path_finder.py","path_finding/test/base_path_tests.py","path_finding/tests/__init__.py","path_finding/test/path_finder_tests.py"]
+}
