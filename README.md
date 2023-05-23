@@ -14,7 +14,7 @@ A config file is also provided to tune various parameters and most of these valu
 ```sh
 python -m venv --prompt autark .env
 source .env/bin/activate
-pip install -r Requirements.txt
+pip install -r requirements.txt
 python src/main.py
 ```
 
